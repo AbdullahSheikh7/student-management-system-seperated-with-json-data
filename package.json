@@ -2,6 +2,7 @@
   "name": "student-management-system-giaic",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +15,15 @@
     "chalk-animation": "^2.0.3",
     "cli-table": "^0.3.11",
     "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
     "inquirer": "^9.2.20",
     "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/cli-table": "^0.3.4",
+    "@types/figlet": "^1.5.8",
+    "@types/gradient-string": "^1.1.6",
+    "@types/inquirer": "^9.0.7"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "10041": {
+    "name": "Abdullah",
+    "class": "11",
+    "rollNo": "36156",
+    "courses": ["English", "Physics", "Math"],
+    "fees": 300,
+    "feePaid": true
+  },
+  "24713": {
+    "name": "asf",
+    "class": "25",
+    "rollNo": "52555",
+    "courses": ["English", "Physics"],
+    "fees": 200,
+    "feePaid": false
+  },
+  "70649": {
+    "name": "Rida",
+    "class": "11",
+    "rollNo": "47651",
+    "courses": ["English", "Math"],
+    "fees": 200,
+    "feePaid": false
+  }
+}
